@@ -17,10 +17,17 @@ AMainCharacter::AMainCharacter()
 
 }
 
+void AMainCharacter::LogMessage()
+{
+	UE_LOG(LogViewport, Warning, TEXT("Message from AMainCharacter"));
+}
+
 // Called when the game starts or when spawned
 void AMainCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+
+	LogMessage();
 	
 }
 

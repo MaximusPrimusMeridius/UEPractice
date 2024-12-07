@@ -23,6 +23,9 @@ public:
 	UPROPERTY(VisibleAnywhere)
 	TObjectPtr<UCameraComponent> CameraComp;
 
+	UFUNCTION()
+	void LogMessage();
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
