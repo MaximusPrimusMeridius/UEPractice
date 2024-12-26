@@ -3,10 +3,13 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Camera/CameraComponent.h"
 #include "GameFramework/Character.h"
-#include "GameFramework/SpringArmComponent.h"
 #include "MainCharacter.generated.h"
+
+class UGroomComponent;
+class USpringArmComponent;
+class UCameraComponent;
+
 
 UCLASS()
 class PRACTICE_API AMainCharacter : public ACharacter
@@ -14,8 +17,16 @@ class PRACTICE_API AMainCharacter : public ACharacter
 	GENERATED_BODY()
 
 public:
-	// Sets default values for this character's properties
+
 	AMainCharacter();
+
+	virtual void Tick(float DeltaTime) override;
+
+	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+	
+protected:
+
+	virtual void BeginPlay() override;
 
 	UPROPERTY(VisibleAnywhere)
 	TObjectPtr<USpringArmComponent> SpringArmComp;
@@ -23,18 +34,17 @@ public:
 	UPROPERTY(VisibleAnywhere)
 	TObjectPtr<UCameraComponent> CameraComp;
 
-	UFUNCTION()
-	void LogMessage();
+	UPROPERTY(VisibleAnywhere)
+	TObjectPtr<UGroomComponent> HairGroomComp;
 
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
-
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
-
-	// Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-
+	UPROPERTY(VisibleAnywhere)
+	TObjectPtr<UGroomComponent> EyebrowGroomComp;
+	
+	void MoveForward(float value);
+	
+	void MoveRight(float value);
+	
+	void LookUp(float value);
+	
+	void Turn(float value);
 };
