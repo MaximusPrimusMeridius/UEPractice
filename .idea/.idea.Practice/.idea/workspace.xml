@@ -12,7 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="401a180e-27e9-452e-91e9-a1af179aac19" name="Changes" comment="Cleared and reorganised project files">
+    <list default="true" id="401a180e-27e9-452e-91e9-a1af179aac19" name="Changes" comment="Included &quot;.idea&quot; folder in &quot;.gitignore&quot; file">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -189,7 +189,7 @@
       <workItem from="1735232039021" duration="1476000" />
       <workItem from="1735237850308" duration="2973000" />
       <workItem from="1735315165730" duration="553000" />
-      <workItem from="1736079781143" duration="1117000" />
+      <workItem from="1736079781143" duration="1792000" />
     </task>
     <task id="LOCAL-00001" summary="Hair Strains module, Basic Input Movement: move, look">
       <option name="closed" value="true" />
@@ -207,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736080248189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Included &quot;.idea&quot; folder in &quot;.gitignore&quot; file">
+      <option name="closed" value="true" />
+      <created>1736080983122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736080983122</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +238,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Hair Strains module, Basic Input Movement: move, look" />
     <MESSAGE value="Cleared and reorganised project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleared and reorganised project files" />
+    <MESSAGE value="Included &quot;.idea&quot; folder in &quot;.gitignore&quot; file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Included &quot;.idea&quot; folder in &quot;.gitignore&quot; file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
