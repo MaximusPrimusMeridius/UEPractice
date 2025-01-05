@@ -2,7 +2,7 @@
 .vs/
 
 # Rider user specific files
-.idea/*
+.idea/**/workspace.xml
 
 # Compiled Object files
 *.slo
