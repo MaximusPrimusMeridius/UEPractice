@@ -12,7 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="401a180e-27e9-452e-91e9-a1af179aac19" name="Changes" comment="Another try to ignore &quot;.idea&quot; folder. Now it looks like: &quot;.idea/**&quot;" />
+    <list default="true" id="401a180e-27e9-452e-91e9-a1af179aac19" name="Changes" comment="Another try to ignore &quot;.idea&quot;. Now it looks like: &quot;.idea&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +64,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -186,7 +186,7 @@
       <workItem from="1735232039021" duration="1476000" />
       <workItem from="1735237850308" duration="2973000" />
       <workItem from="1735315165730" duration="553000" />
-      <workItem from="1736079781143" duration="2106000" />
+      <workItem from="1736079781143" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="Hair Strains module, Basic Input Movement: move, look">
       <option name="closed" value="true" />
@@ -228,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736081839081</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Another try to ignore &quot;.idea&quot; folder. Now it looks like: &quot;**/.idea&quot;">
+      <option name="closed" value="true" />
+      <created>1736081980987</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736081980987</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Another try to ignore &quot;.idea&quot;. Now it looks like: &quot;.idea&quot;">
+      <option name="closed" value="true" />
+      <created>1736082595354</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736082595354</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +270,9 @@
     <MESSAGE value="Included &quot;.idea&quot; folder in &quot;.gitignore&quot; file" />
     <MESSAGE value="Another try to ignore &quot;.idea&quot; files. Now it looks like: &quot;.idea/*&quot;" />
     <MESSAGE value="Another try to ignore &quot;.idea&quot; folder. Now it looks like: &quot;.idea/**&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Another try to ignore &quot;.idea&quot; folder. Now it looks like: &quot;.idea/**&quot;" />
+    <MESSAGE value="Another try to ignore &quot;.idea&quot; folder. Now it looks like: &quot;**/.idea&quot;" />
+    <MESSAGE value="Another try to ignore &quot;.idea&quot;. Now it looks like: &quot;.idea&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another try to ignore &quot;.idea&quot;. Now it looks like: &quot;.idea&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
