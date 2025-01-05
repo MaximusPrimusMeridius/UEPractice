@@ -13,23 +13,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="401a180e-27e9-452e-91e9-a1af179aac19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice.dir/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Characters/BP_MainCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/BP_MainCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/EchoContent/Characters/Echo/Meshes/Echo_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EchoContent/Characters/Echo/Meshes/Echo_Skeleton.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/BlankLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/BlankLevel.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/BP_MainCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/EchoContent/Characters/Echo/Rig/Echo_Body_CtrlRig.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/EchoContent/Characters/Echo/Rig/Echo_Body_CtrlRig.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/BlankLevel.umap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Practice/Practice.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Practice/Practice.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Practice/Private/MainCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Practice/Private/MainCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Practice/Public/MainCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Practice/Public/MainCharacter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Practice/Private/MainCharacter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Practice/Private/MyActor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Practice/Public/MainCharacter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Practice/Public/MyActor.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +50,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/UE/UE_5.5/Engine/Source/Runtime/Core/Public/Modules/ModuleManager.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/UE/UE_5.5/Engine/Source/Runtime/Core/Public/String/FormatStringSan.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/UE/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -82,7 +77,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;UnrealLogSettings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -196,7 +191,25 @@
       <workItem from="1735155800312" duration="2373000" />
       <workItem from="1735158379605" duration="561000" />
       <workItem from="1735159035255" duration="6900000" />
+      <workItem from="1735227577809" duration="1293000" />
+      <workItem from="1735228992395" duration="433000" />
+      <workItem from="1735229518687" duration="433000" />
+      <workItem from="1735230030969" duration="1027000" />
+      <workItem from="1735231164311" duration="722000" />
+      <workItem from="1735232039021" duration="1476000" />
+      <workItem from="1735237850308" duration="2973000" />
+      <workItem from="1735315165730" duration="553000" />
+      <workItem from="1736079781143" duration="372000" />
     </task>
+    <task id="LOCAL-00001" summary="Hair Strains module, Basic Input Movement: move, look">
+      <option name="closed" value="true" />
+      <created>1735227789682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735227789682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,5 +230,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Hair Strains module, Basic Input Movement: move, look" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hair Strains module, Basic Input Movement: move, look" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
