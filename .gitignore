@@ -2,7 +2,7 @@
 .vs/
 
 # Rider user specific files
-.idea/.idea.Practice/.idea/*
+.idea/.idea.Practice/.idea/**
 
 # Compiled Object files
 *.slo
